@@ -4,7 +4,8 @@
 
 
 // Implement Binary Search using this function template
-bool BinarySearch(const std::vector<int>& v) {
+// return -1 if there is no such element, return an index if element exist
+int BinarySearch(const std::vector<int>& v, long element) {
   // Put your code here
 }
 
