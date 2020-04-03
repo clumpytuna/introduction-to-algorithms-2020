@@ -7,6 +7,5 @@ void InsertionSort(std::vector<long>& v) {
 
 int main() {
 
-
   return 0;
 }
