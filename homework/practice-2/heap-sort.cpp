@@ -9,6 +9,7 @@ class Heap {
   Insert(long element);
   // Get a maximum element
   long ExtractMax();
+  ~Heap();
 }
 
 int main () {
