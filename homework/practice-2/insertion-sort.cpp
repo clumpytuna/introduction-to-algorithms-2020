@@ -1,6 +1,5 @@
 #include <vector>
 
-
 void InsertionSort(std::vector<long>& v) {
   // add your code here
 }
