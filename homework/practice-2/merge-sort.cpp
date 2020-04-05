@@ -1,7 +1,7 @@
 #include <vector>
 #include <iostream>
 
-void InsertionSort(std::vector<long>& v) {
+void MergeSort(std::vector<long>& v) {
   // add your code here
 }
 
@@ -15,7 +15,7 @@ int main() {
     std::cin >> number;
   }
 
-  InsertionSort(numbers);
+  MergeSort(numbers);
 
   for (long number: numbers) {
     std::cout << number << ' ';
