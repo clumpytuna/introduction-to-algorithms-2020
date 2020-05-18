@@ -3,7 +3,7 @@
 
 class Heap {
  public:
-  Heap() {}
+  Heap() = default;
   // Constructor to build heap from array
   Heap(const std::vector<long>& array) {}
   // Insert element in heap

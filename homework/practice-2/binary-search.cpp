@@ -12,5 +12,6 @@ int BinarySearch(const std::vector<long>& v, long element) {
 
 int main() {
 
+
   return 0;
 }
