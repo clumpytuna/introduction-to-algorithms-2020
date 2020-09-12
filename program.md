@@ -7,3 +7,8 @@
 5. Hash Table Chaining. Insert & Delete & Search. Time complexity & space complexity.
 6. Hash Table Open Addressing. Insert & Delete & Search. Time complexity & space complexity.
 7. Bloom Filter. Insert & Search. Applications. Time complexity & space complexity.
+
+### Extended
+
+8. Document distance problem
+9. AVL tree (any balanced tree)
